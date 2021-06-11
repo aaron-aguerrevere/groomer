@@ -61,8 +61,8 @@ def resize_images():
 
     # set source and destination of images
     # where to go get the images from/put them in
-    source_path = '/Users/aaronaguerrevere/Documents/portfolio/groomer/images/'
-    destination_path = '/Users/aaronaguerrevere/Documents/portfolio/groomer/resized_images/'
+    source_path = ''
+    destination_path = ''
 
     images = os.listdir('images')
 
